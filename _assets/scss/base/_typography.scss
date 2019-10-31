@@ -91,12 +91,13 @@ p {
 //---------------------------------------------- 
 q,
 blockquote {
-  @extend %text-center;
 
   font-family: $font;
   font-weight: 300;
   font-size: 1.25em;
-  color: #716e6e;
+  font-style: italic;
+  color: $color-darkgrey;
+  margin-left: 2em;
   line-height: 1.2;
 
   @media (min-width: $mq-small) {
