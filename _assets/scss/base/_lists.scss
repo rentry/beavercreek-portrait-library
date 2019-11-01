@@ -28,6 +28,10 @@ ol {
       font-size: 1.25em;
     }
 
+    @media (max-width: $mq-small) {
+      margin-left: 2em;
+    }
+
     & > li {
       position: relative;
 

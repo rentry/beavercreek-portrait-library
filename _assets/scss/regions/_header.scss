@@ -30,6 +30,15 @@
     }
   }
 
+  @media (max-width: $mq-small) {
+    font-size: $font-xxsmall;
+  }
+
+  @media (max-width: $mq-xsmall) {
+    font-size: $font-xxsmall;
+    line-height: 1;
+  }
+
   &__title {
     @extend %font-header;
 
