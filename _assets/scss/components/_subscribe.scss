@@ -28,6 +28,12 @@
     };
   }
 
+  &__link {
+    color: $color-grey;
+    text-decoration: none;
+    font-size: $font-xxsmall;
+  }
+
   &__error {
     @extend %font-header;
     @extend %text-center;
@@ -38,5 +44,9 @@
     }
 
     color: $color-alpha;
+  }
+
+  &__no-padding {
+    padding: 0;
   }
 }

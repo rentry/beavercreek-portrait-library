@@ -15,15 +15,15 @@
 
 <form id="mc-signup" action="https://tinyletter.com/rentry" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/rentry', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
   <div class="form-group">
-  <input type="text" name="email" id="tlemail" placeholder="email address"/>
+  <input aria-label="email address" type="text" name="email" id="tlemail" placeholder="email address"/>
   </div>
   <div style="position: absolute; left: -5000px;" aria-hidden="true">
     <input type="hidden" value="1" name="embed"/>
   </div>
-  <button style="padding: 0;">
-    <input type="submit" value="Subscribe" />
+  <button class="subscribe__no-padding">
+    <input style="border: none;" type="submit" value="Subscribe" />
   </button>
 </form>
   <div style="display: block;">
-    <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p>
+    <p class="subscribe__text"><a href="https://tinyletter.com" class="subscribe__link" target="_blank">powered by TinyLetter</a></p>
   </div>       
