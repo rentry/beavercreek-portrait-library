@@ -9,19 +9,13 @@ title: Beavercreek Portrait Library
 description: >
   Portraits of humans who live or work in Beavercreek, Oregon.
 url: 
-twitter_username: thomasvaeth
+twitter_username: forestglenroad
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
     url: https://twitter.com/forestglenroad
-  - name: instagram
-    url: 
-  - name: linkedin
-    url: 
   - name: github
     url: https://github.com/rentry
-  - name: codepen
-    url: 
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
