@@ -1,5 +1,4 @@
-<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-signup" name="mc-embedded-subscribe-form" novalidate>
-  <!-- This is required for the form to work correctly -->
+<!--<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-signup" name="mc-embedded-subscribe-form" novalidate>
   <div style="position: absolute; left: -5000px;" aria-hidden="true">
     <input type="text" name="{{ site.mailchimp_input }}" tabindex="-1" value="">
   </div>
@@ -12,4 +11,19 @@
   </div>
 </form>
 
-<p class="subscribe__error hidden"></p>
+<p class="subscribe__error hidden"></p>-->
+
+<form id="mc-signup" action="https://tinyletter.com/rentry" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/rentry', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <div class="form-group">
+  <input aria-label="email address" type="text" name="email" id="tlemail" placeholder="email address"/>
+  </div>
+  <div style="position: absolute; left: -5000px;" aria-hidden="true">
+    <input type="hidden" value="1" name="embed"/>
+  </div>
+  <button class="subscribe__no-padding">
+    <input style="border: none;" type="submit" value="Subscribe" />
+  </button>
+</form>
+  <div style="display: block;">
+    <p class="subscribe__text"><a href="https://tinyletter.com" class="subscribe__link" target="_blank">powered by TinyLetter</a></p>
+  </div>       

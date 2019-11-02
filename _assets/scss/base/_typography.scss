@@ -64,14 +64,19 @@ h6 {
 // H2 Theme
 //---------------------------------------------- 
 h2:not(.posts__text):not(.related__text) {
-  $fontSize: 2em;
+  $fontSize: 3em;
 
   font-family: $font-post;
   font-size: $fontSize;
-  line-height: 1.4;
+  line-height: 1;
+  font-weight: 700;
 
   @media (min-width: $mq-xlarge) {
     font-size: $fontSize + 0.25em;
+  }
+
+  @media (max-width: $mq-xsmall) {
+    font-size: 2em;
   }
 }
 
@@ -90,15 +95,14 @@ p {
 //---------------------------------------------- 
 q,
 blockquote {
-  @extend %text-center;
 
-  margin: 0 0 1.5rem;
-
-  font-family: $font-post;
-  font-weight: 400;
+  font-family: $font;
+  font-weight: 300;
   font-size: 1.25em;
-  color: $color-black;
-  line-height: 1.4;
+  font-style: italic;
+  color: $color-darkgrey;
+  margin-left: 2em;
+  line-height: 1.2;
 
   @media (min-width: $mq-small) {
     font-size: 1.5em;

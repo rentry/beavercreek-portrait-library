@@ -19,7 +19,8 @@
     display: block;
     margin-top: 0.25em;
 
-    font-size: $font-xsmall;
+    font-size: $font-small;
+    font-weight: 300;
   }
 
   &__img {
@@ -123,7 +124,8 @@
 
   .post-layout &,
   #style-guide & {
-    font-family: $font-post;
+    font-family: $font;
+    font-weight: 300;
   }
 
   & > * {
@@ -144,9 +146,10 @@
   h4,
   h5,
   h6 {
-    margin-bottom: 0.5rem;
+    margin: 1.5rem 0 0.4rem 0;
 
-    font-family: $font;
+    font-family: $font-post;
+    font-weight: 700;
   }
 
   h1 {

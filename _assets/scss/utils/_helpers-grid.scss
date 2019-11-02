@@ -114,10 +114,10 @@ section {
   @extend %auto-margin;
 
   width: 100%;
-  max-width: 38em;
+  max-width: 50em;
 
   @media (min-width: $mq-med) {
-    width: 50%;
+    width: 75%;
   }
 }
 
