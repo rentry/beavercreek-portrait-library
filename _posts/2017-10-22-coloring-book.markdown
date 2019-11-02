@@ -2,11 +2,11 @@
 layout: post
 title: "Coloring Book"
 date: 2017-10-22
-description: 
+description: This other thing.
 image: /assets/images/placeholder-8.jpg
 author: Thomas Vaeth
 tags: 
-  - Squid
+  - Famous
   - Moon Drinking
   - Kale
 ---
