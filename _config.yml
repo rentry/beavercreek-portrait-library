@@ -32,7 +32,7 @@ mailchimp_input:
 author:
   - name: Ryan Johnson
     bio: Ryan and Erinn live in an old farmhouse in Beavercreek.
-    url: http://brentryanjohnson.com
+    url: https://brentryanjohnson.com
 
 # Pagination settings
 pagination:
