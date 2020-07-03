@@ -11,9 +11,7 @@ tags:
   - Religion
 ---
 
-Our first portrait is that of Jennifer Seaich, pastor of Beavercreek United Church of Christ (also known as the Ten O’Clock Church).
-
-_Note: I attend Beavercreek United Church of Christ_
+_Our first portrait is that of Jennifer Seaich, pastor of Beavercreek United Church of Christ (also known as the Ten O’Clock Church)._
 
 ## What led you to become a pastor?
 
