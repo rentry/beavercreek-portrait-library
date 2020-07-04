@@ -88,6 +88,14 @@ p {
     top: 0;
     bottom: 0.75em;
   }
+
+  @media (min-width: $mq-small) {
+    font-weight: 300;
+  }
+
+  @media (max-width: $mq-xsmall) {
+    font-weight: 300;
+  }
 }
 
 //----------------------------------------------
