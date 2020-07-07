@@ -16,10 +16,6 @@ body {
 
   @media (min-width: $mq-small) {
     font-size: 102.5%;
-    
-    #markdown>p {
-      font-weight: 100;
-    }
   }
 
   @media (min-width: $mq-med) {
