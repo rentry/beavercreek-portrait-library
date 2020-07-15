@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jennifer Seaich"
-date: 2019-06-02
+date: 2019-07-14
 description: Pastor of Beavercreek United Church of Christ 
 image: /assets/images/bpl-1-4.jpg
 author: Ryan Johnson
