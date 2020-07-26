@@ -69,7 +69,7 @@ There is still spiritual hunger, as real and meaningful as other needs, and we s
 
 ## Are you reading any books right now that you’d like to share?
 
-I'm always reading books! I usually have at least a couple going for church—some biblical commentary or topics for upcoming sermons and some bigger picture. And I always have a novel or fun reading going too. Non-fiction and theology books I'm reading now are <i>Austin Channing Brown's I'm Still Here: Black Dignity in a World Made for Whiteness</i> and <i>Katlin B Curtice Native: Identity, Belonging, and Rediscovering God</i>, and David Bentley Hart's <i>Theological Territories</i> is waiting for me. And in fiction, I just finished a novella, <i>The Haunting of Tram Car 015</i>, and am starting <i>The Mirror and the Light and God’s Black children are routinely dying in the streets and put in prison, the 3rd in the Wolf Hall trilogy.
+I'm always reading books! I usually have at least a couple going for church—some biblical commentary or topics for upcoming sermons and some bigger picture. And I always have a novel or fun reading going too. Non-fiction and theology books I'm reading now are Austin Channing Brown's <i>I'm Still Here: Black Dignity in a World Made for Whiteness</i> and Kaitlin B. Curtice's <i>Native: Identity, Belonging, and Rediscovering God</i>, and David Bentley Hart's <i>Theological Territories</i> is waiting for me. And in fiction, I just finished a novella, <i>The Haunting of Tram Car 015</i>, and am starting <i>The Mirror and the Light</i>, the 3rd in the Wolf Hall trilogy.
 
 ![Poodles Owen and Finn panting on a warm day in the shade](/assets/images/bpl-1-5.jpg#full)
 
