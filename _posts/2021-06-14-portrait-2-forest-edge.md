@@ -13,7 +13,7 @@ tags:
   - Farm
 ---
 
-_Jan Wallinder and her husband Ron Webb own and operate Forest Edge Vineyard, a permaculture vineyard, winery, and tasting room just off Spangler Road._
+_Jan Wallinder and husband Ron Webb own and operate Forest Edge Vineyard, a permaculture vineyard, winery, and tasting room just off Spangler Road._
 
 ## Jan, you’re a retired public health nurse. How did your public health background inform your experience of the covid-19 pandemic?
 
