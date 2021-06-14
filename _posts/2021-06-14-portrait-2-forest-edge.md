@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jan Wallinder and Ron Webb"
-date: 2021-06-13
+date: 2021-06-14
 description: Owners and operators of Forest Edge Vineyard
 image: /assets/images/bpl-2-1-2.jpg
 author: Ryan Johnson
