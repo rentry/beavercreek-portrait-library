@@ -3,14 +3,14 @@ layout: post
 title: "Jan Wallinder and Ron Webb"
 date: 2021-06-13
 description: Owners and operators of Forest Edge Vineyard
-image: /assets/images/bpl-2-4.jpg
+image: /assets/images/bpl-2-1-2.jpg
 author: Ryan Johnson
 tags: 
+  - Religion
   - Jan Wallinder
   - Ron Webb
   - Wine
   - Farm
-  - Religion
 ---
 
 _Jan Wallinder and her husband Ron Webb own and operate Forest Edge Vineyard, a permaculture vineyard, winery, and tasting room just off Spangler Road._
@@ -21,7 +21,7 @@ _Jan Wallinder and her husband Ron Webb own and operate Forest Edge Vineyard, a 
 
 But I was frustrated, extremely frustrated, that we didn’t have leadership that I thought we needed at the national level. It would have been a whole lot easier if we had national leadership that set a direction. CDC was always the gold standard for me growing up in public health; [they were] who we all turned to, but they didn’t come off so well last year, in my perspective. So it’s been frustrating to watch how the public hasn’t really felt like the public health community was on top of things in the way they should have been—or weren’t allowed to be on top of things as they should have been.
 
-![Jan Wallinder stands in front of grape vines at Forest Edge Vineyard]({{ "assets/images/bpl-2-1-2.jpg" | relative_url }}#full)
+![Jan Wallinder stands in front of grape vines at Forest Edge Vineyard]({{ "assets/images/bpl-2-4.jpg" | relative_url }}#full)
 
 ## On top of the pandemic, we experienced wildfire evacuations, ice storms, and power outages in the past year. How have the weather events impacted the vineyard and your business?
 
@@ -73,9 +73,9 @@ We plant windbreaks around everything, hopefully serving multiple purposes: wind
 
 ## Ron, I understand you went to seminary. Does theological study inform how you approach your vineyard practices?
 
-**Ron:** I guess one of my responses, when someone asks me what I’m doing: “Well, I’m laboring in my vineyard per my Lord and Savior.”
+**Ron:** I guess one of my responses, when someone asks me what I’m doing: “Well, I’m laboring in my vineyard, per my Lord and Savior.”
 
-Basically, I think it informs my sense of the land, and ownership of land, particularly out of the priestly editions of the Jewish scripture, particularly Leviticus. God owns the land; we’re just tenants, at best stewards. So we have certain responsibilities to protect the land. 
+Basically, I think it informs my sense of the land, and ownership of land, particularly out of the priestly [passages] of the Jewish scripture, particularly Leviticus. God owns the land; we’re just tenants, at best stewards. So we have certain responsibilities to protect the land. 
 
 Our goal for the land here was always to put it in a land trust. That was always important—is still important—to do that, partly out of my sense of God or Gaia. That we shouldn’t have ownership of the land; we should have tenancy, under certain conditions. Because we’re responsible to God or Gaia for how we live with and on the land.
 

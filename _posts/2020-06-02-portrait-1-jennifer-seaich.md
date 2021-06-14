@@ -6,9 +6,9 @@ description: Pastor of Beavercreek United Church of Christ
 image: /assets/images/bpl-1-4.jpg
 author: Ryan Johnson
 tags: 
+  - Religion
   - Jennifer Seaich
   - Pastor
-  - Religion
 ---
 
 _Our first portrait is that of Jennifer Seaich, pastor of Beavercreek United Church of Christ (also known as the Ten O’Clock Church)._
