@@ -66,6 +66,7 @@ layout: default
       <h2 class="related__title">Related</h2>
       <div class="related__container">
         {% for post in site.tags[relatedTag] limit: 3 %}
+        {% unless post.url == page.url %}
           <article class="related__post">
             <a class="related__link" href="{{ post.url | absolute_url }}">
               {% if post.image %}
@@ -78,6 +79,7 @@ layout: default
               </div>
             </a>
           </article>
+        {% endunless %}  
         {% endfor %}
       </div>
     </div>

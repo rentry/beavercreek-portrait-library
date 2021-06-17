@@ -6,9 +6,9 @@ description: Pastor of Beavercreek United Church of Christ
 image: /assets/images/bpl-1-4.jpg
 author: Ryan Johnson
 tags: 
+  - Religion
   - Jennifer Seaich
   - Pastor
-  - Religion
 ---
 
 _Our first portrait is that of Jennifer Seaich, pastor of Beavercreek United Church of Christ (also known as the Ten O’Clock Church)._
@@ -25,13 +25,13 @@ I was living in Southern Idaho and going through the process to be ordained with
 
 So many kind, good people. The view behind the church, with incredible sunsets. Being out in the country where there are trees and farm stands with strawberries (also raspberries, peaches...), and also having access to Portland concerts, shopping, restaurants, and airport when I want them, which turns out to be not all that often. 
 
-![Beavercreek United Church of Christ in black and white on a sunny day, the church has stain glass windows and a tall steeple toward the front of the church](/assets/images/bpl-1-7.jpg#full)
+![Beavercreek United Church of Christ in black and white on a sunny day, the church has stain glass windows and a tall steeple toward the front of the church]({{"/assets/images/bpl-1-7.jpg" | relative_url }}#full)
 
 ## The 10 O’Clock Church has been in the community since 1880. Does that history affect the way you approach your ministry?
 
 In some ways it does. This church has deep and meaningful history in the community. We have a few members who have been in this church their entire lives, and part of that history has been willingness to change and adapt. The original church building wasn't serving needs anymore, so they pulled it down and built the church we have now in 1940. I can only imagine how difficult that must have been. The older building was the one where members had gone through Sunday school, married, watched their children grow up, had funerals, shared meals and prayers. It must have been loved as much as our cute little church now is loved, but they were willing to let it go in order to move into the future. This church called its first woman pastor in 1988 (and as of now, there are still only two of us in the Beavercreek/Oregon City area). It became open and affirming—intentionally declaring unconditional welcome to LGBT people—in 1999. I want this church to be here for a long time in the future, because I think this church matters. It has and continues to bring profound grace into people's lives. Imagine little girls growing up with a woman pastor. Imagine being gay or lesbian or transgender and hearing that God loves you for exactly who you are. Imagine being a straight white person and finding a church that tells you not to turn off your brain. That is divine work. A tagline in the UCC is that our faith is 2000 years old; our thinking is not. I take a similar approach to ministering at BUCC: honor and appreciate what has gone before in our living faith and retain traditions that are meaningful. To do that, we have to question what traditions are truly meaningful, since "because we always have" is not a reason to continue anything. 
 
-![Inside the church, with 7 pews on each side of a middle aisle, a cross on the far wall, stain-glass windows on each side, blue choir chairs on the stage at front, a podium with a microphone, and the U.S. flag in the left corner and church flag in the other](/assets/images/bpl-1-2.jpg)
+![Inside the church, with 7 pews on each side of a middle aisle, a cross on the far wall, stain-glass windows on each side, blue choir chairs on the stage at front, a podium with a microphone, and the U.S. flag in the left corner and church flag in the other]({{ "/assets/images/bpl-1-2.jpg" | relative_url }})
 
 ## We’re obviously in the middle of some converging challenges in our society, including the covid-19 pandemic, racial injustice, wealth inequality, and climate change. How have these circumstances affected the way you practice your ministry?
 
@@ -47,17 +47,17 @@ Mostly positive. We've had a little vandalism. We've had a few anonymous nasty m
 
 We have also received letters in the mail from people thanking us for our prophetic witness. We've received donations from people who say they aren't church people, but they appreciate our presence and work. We've had people tell us that driving by here each day and seeing the readerboard makes them feel less alone. I and many members have heard people say that if they went to church, they'd come here, and there are people I don't even know who consider this their church. 
 
-![Readerboard outside the church reading Jesus said love God and neighbor, loving neighbor means wearing a mask, food pantry, wooden sign reads peace on earth](/assets/images/bpl-1-9.jpg#full)
+![Readerboard outside the church reading Jesus said love God and neighbor, loving neighbor means wearing a mask, food pantry, wooden sign reads peace on earth]({{ "/assets/images/bpl-1-9.jpg" | relative_url }}#full)
 
 One of the criticisms that those anonymous callers often make is that we are political instead of being church or that we should keep politics out of church. They are wrong. Feeding the hungry, setting free the oppressed, welcoming the stranger, caring for widows and orphans (or the modern equivalent) are very much Gospel issues. Immigration, taxation, care for creation are all over the Bible. This is about loving God and neighbor. The word politics comes from Greek, people or city. This is very much the business of people of faith. Church is nothing if it's all bland platitudes or prosperity gospel without real values. Jesus was a brown-skinned refugee who was legally executed by the state. That has powerful implications for how we approach refugees, the prison industrial complex, capital punishment, and more. We should have some things to say about how our neighbors are treated. The Bible doesn't give exact policies on immigration, but it does say "God...loves the strangers, providing them food and clothing. You shall also love the stranger, for you were strangers in the land of Egypt.” (Deut 10:18) and much more—not policies, but values. That should matter. Exactly what the law should be, scripture doesn’t tell us, but it tells us that it should be compassionate, loving, recognizing inherent human rights and dignity, seeing each immigrant and asylum seeker and prisoner and person in poverty and in need of health care as utterly beloved by God. That isn't the exclusive purview of either of the two major political parties in the US. Jesus criticized the values of the empire, and we have to do that also, whichever party is in power. I would not tell anyone who to vote for, nor try to craft detailed policies. But talking about values and what is right and wrong? That is exactly my calling. And I will stand by our readerboard statement that Jesus would not put babies in cages. That's not politics. That's human. 
 
-![Banner reading Beavercreek United Church of Christ Honoring Diversity](/assets/images/bpl-1-3.jpg)
+![Banner reading Beavercreek United Church of Christ Honoring Diversity]({{ "/assets/images/bpl-1-3.jpg" | relative_url }})
 
 ## You have a Master of Divinity from Yale Divinity School, but also attended Idaho State University and the University of Montana. How has this educational geography influenced you?
 
 College at UM, Divinity School at Yale, and a Masters in counseling from ISU that I did while living and working there. Mostly I think that a good education is possible anywhere for those who want it. I had incredible professors at each university. At Yale, I had access to world-class libraries, theater productions with famous people, and lectures or speeches by public intellectuals. I got to have coffee with the NY Times religion reporter, attend a cocktail hour with Noam Chomsky, meet Kofi Annan, go to breakfast with Barbara Ehrenreich, and get arrested in a protest with Jesse Jackson. One of the best things about being at Yale was the diversity though. I got to know grad students from Puerto Rico, Korea, China, Saudi Arabia, Oxford, and all over the US. I liked New England very much too. There is less superficial friendliness, less striking up conversations in grocery stores or smiling at people on the sidewalk, but they are very good people there. I like being able to get to the woods and mountains and also to the city. New Haven had the best food and the most crime. And I've never lived south of Pocatello, Idaho, because I do not enjoy being over about 72 degrees. 
 
-![Pastor Jennifer standing in front of trees in the background](/assets/images/bpl-1-8.jpg)
+![Pastor Jennifer standing in front of trees in the background]({{ "/assets/images/bpl-1-8.jpg" | relative_url }})
 
 ## Church attendance across the country has declined over the past two decades. To what do you attribute that?
 
@@ -71,10 +71,10 @@ There is still spiritual hunger, as real and meaningful as other needs, and we s
 
 I'm always reading books! I usually have at least a couple going for church—some biblical commentary or topics for upcoming sermons and some bigger picture. And I always have a novel or fun reading going too. Non-fiction and theology books I'm reading now are Austin Channing Brown's <i>I'm Still Here: Black Dignity in a World Made for Whiteness</i> and Kaitlin B. Curtice's <i>Native: Identity, Belonging, and Rediscovering God</i>, and David Bentley Hart's <i>Theological Territories</i> is waiting for me. And in fiction, I just finished a novella, <i>The Haunting of Tram Car 015</i>, and am starting <i>The Mirror and the Light</i>, the 3rd in the Wolf Hall trilogy.
 
-![Poodles Owen and Finn panting on a warm day in the shade](/assets/images/bpl-1-5.jpg#full)
+![Poodles Owen and Finn panting on a warm day in the shade]({{ "/assets/images/bpl-1-5.jpg" | relative_url }}#full)
 
 ## I understand you are a dog lover. Same. Please tell us about Owen and Finn!
 
 I adore my doggos. Owen and Finn are my standard poodle boys. Owen is 14, and Finn is 8. Anyone who thinks poodles are fancy has never seen Owen taking a nap with loud snoring and farting or seen Finn race around the yard in enormous circles or nap with his belly up and tongue out. They are very different boys but such strong vibrant personalities. Owen is sweet and calm and mellow; he likes to be on the dog bed a few feet from me or on my feet. He loves stuffies and food. Finn's settings are naughty or cuddly and sweet; he likes to be right next to me pretty much always. He adores tennis balls. Between them, Finn is the boss, since he was a quarter Owen’s size. I can hardly imagine life without a dog and really do not know why anyone would do that. We are a dog-loving church (and cats and chickens and goats and other critters too). 
 
-![Finn dog in the aisle of the church](/assets/images/bpl-1-1.jpg)
+![Finn dog in the aisle of the church]({{ "/assets/images/bpl-1-1.jpg" | relative_url }})
