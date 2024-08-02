@@ -36,7 +36,7 @@
     "babelify": "^10.0.0",
     "browserify": "^16.5.2",
     "eslint": "^5.16.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-eslint": "^5.0.0",
