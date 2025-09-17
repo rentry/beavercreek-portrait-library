@@ -21,3 +21,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Required after move to M1
 gem "webrick"
+
+# ffi breaking in nfly
+gem 'ffi', '~> 1.15.0'
